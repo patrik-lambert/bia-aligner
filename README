@@ -1,0 +1,5 @@
+To install this software, run 
+cbuild.sh 
+
+An example script to train, tune and run BIA on a small data set is available in the "sample" directory ("pb-bia.bash"). 
+
