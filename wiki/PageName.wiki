@@ -1,3 +1,5 @@
+#summary Description of how BIA works and how to run the software
+
 = BIA: Bilingual Alignment at the Phrase level =
 
 BIA is a discriminative alignment system, based on log-linear alignment models. 
