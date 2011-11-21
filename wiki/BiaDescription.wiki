@@ -31,6 +31,12 @@ word c(0) c(1) c(2) c(3) c(>3)
 
 where c(i)=-log,,10,,(p(i)) and p(i) is the probability that the word is linked to i words
 
+You can read more about BIA in the following publications:
+
+Patrik Lambert, Rafael Banchs and Josep M. Crego. Discriminative Alignment Training without Annotated Data for Machine Translation. In Proc. of NAACL-HLT, pp 85-88. Rochester, NY, USA, April 23-25.
+
+Patrik Lambert and Rafael E. Banchs. Word association models and search strategies for discriminative word alignment. In Proc. of EAMT, pp 97--103. Hamburg, Germany.
+
 == Running BIA ==
 
 Before running BIA on a test set, you may want to filter the model given this test set:
