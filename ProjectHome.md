@@ -1,0 +1,1 @@
+A suite consisting of a discriminative phrase-based alignment decoder based on linear alignment models, along with training and tuning tools. In the training phase, relative link probabilities are calculated based on an initial alignment. The tuning of the model weights may be performed directly according to MT metrics.
